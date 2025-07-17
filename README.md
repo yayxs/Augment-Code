@@ -1,4 +1,4 @@
-创始人故事 (Founder Story)
+## 创始人故事 (Founder Story)
 
 Augment-Code 于2022年由 Igor Ostrovsky 和 Guy Gur-Ari
 联合创立。这两位创始人以及公司的核心领导团队都拥有非常资深的技术和行业背景：
@@ -11,9 +11,9 @@ Augment-Code 于2022年由 Igor Ostrovsky 和 Guy Gur-Ari
 
 公司的核心理念是 “增强”而非“取代” 开发者，致力于打造一个能与软件工程师协同工作的AI伙伴。
 
-融资历史 (Funding History)
+## 融资历史 (Funding History)
 
-截至2024年4月，Augment-Code 已累计获得 2.52亿美元 的融资，显示出资本市场对其技术和团队的高度认可。
+加利福尼亚州帕洛阿尔托 — 2024 年 4 月 24 日 — 人工智能编码辅助初创公司 Augment Inc. 今日揭开神秘面纱，并宣布完成 2.27 亿美元的 B 轮融资，投后估值为 9.77 亿美元，投资者包括 Sutter Hill Ventures、Index Ventures、Innovation Endeavors、Lightspeed Venture Partners 和 Meritech Capital。至此，Augment 的总融资金额达到 2.52 亿美元，此前由 Sutter Hill Ventures 领投的 A 轮融资为 2500 万美元。最新注入的资金将用于加速产品开发，并构建其产品、工程和上市职能，为公司快速增长做好准备。
 
 - A轮 (Series A): 融资 2500万美元，由 Sutter Hill Ventures 领投。
 - B轮 (Series B): 在2024年4月宣布，融资金额高达 2.27亿美元。此轮融资由 Sutter Hill Ventures、Index Ventures、Innovation
@@ -22,7 +22,7 @@ Augment-Code 于2022年由 Igor Ostrovsky 和 Guy Gur-Ari
 
 这笔资金计划用于加速产品研发、扩大工程和市场团队。
 
-产品时间线与核心功能 (Product Timeline & Features)
+## 产品时间线与核心功能 (Product Timeline & Features)
 
 Augment-Code 的产品是一个AI驱动的编程辅助平台，旨在帮助软件团队更高效地构建高质量软件。
 
